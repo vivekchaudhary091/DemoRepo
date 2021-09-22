@@ -9,4 +9,6 @@ public class LoginPage {
 	public void loginPageLogo() {
 		System.out.println("This is loginPagelogo method");
 	}
+      public void loginsearch(){
+         }
 }
